@@ -15,13 +15,13 @@ When creating example projects I like to ensure that the examples I use are as c
 
 This is broken up into 4 parts and in the end we're looking a process that will help Lafayette with a more efficient way to ruin things for the French and British monarchy. 
 
-![process](./src/main/resources/images/laffProcessDiagram.png)
-
+![process](./src/main/resources/images/1.png)
+<!-- 
 ## What you will need 
 * [Java JDK 11](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) so that you can run the Camunda Platform
 * [Camunda Modeler](https://camunda.com/download/modeler/) for building and deploying BPMN Models
-* An integrated development environment for Java like [IntelliJ IDEA](https://www.jetbrains.com/idea/download/) 
-
+* An integrated development environment for Java like [IntelliJ IDEA](https://www.jetbrains.com/idea/download/)  -->
+<!-- 
 ## What will you learn?
 * How to setup a spring boot project with Camunda
 * Understanding the components of the project
@@ -29,9 +29,9 @@ This is broken up into 4 parts and in the end we're looking a process that will 
 * How to write java classes that can be run by Service Tasks
 * How to configure an XOR gateway based on process data
 * How to configure non-interrupting timer events
-* How to trigger and catch BPMN errors thrown from Java Code
+* How to trigger and catch BPMN errors thrown from Java Code -->
 
-
+<!-- 
 ### Part One: Lafayette's Departure 
 <span style="color:Orange">Using User tasks and Camunda Forms</span>.
 ![LafayetteV1](./src/main/resources/images/LafayetteV1.png)
@@ -48,4 +48,4 @@ This is broken up into 4 parts and in the end we're looking a process that will 
 
 ## Part Four: Disaster at Sea for Lafayette
 <span style="color:Orange">Using Java to throw BPMN Error Events</span>.
-![LafayetteV4](./src/main/resources/images/LafayetteV4.png)
+![LafayetteV4](./src/main/resources/images/LafayetteV4.png) -->
