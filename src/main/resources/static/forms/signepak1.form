@@ -1,0 +1,24 @@
+{
+  "components": [
+    {
+      "label": "Sign Epak",
+      "type": "textfield",
+      "id": "Field_1m35fpp",
+      "key": "signit",
+      "validate": {
+        "required": true,
+        "pattern": "Yes|No"
+      },
+      "description": "want to sign epak?"
+    }
+  ],
+  "type": "default",
+  "id": "Form_0s24w14",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.9.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.18.0",
+  "schemaVersion": 7
+}
